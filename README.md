@@ -23,6 +23,9 @@ This project implements five different sentiment analysis approaches to classify
 ## Dataset
 The dataset used in this project is the `Reviews.csv` file, which contains product reviews and ratings from Amazon.
 
+You can access the dataset from Kaggle at the following link:
+- [Kaggle: Amazon Reviews Dataset](https://www.kaggle.com/code/haidytalaat/sentimentent-analysis-modeling-on-amazon-reviews/input?select=Reviews.csv)
+
 ### Dataset Structure:
 - `Text`: The actual review text.
 - `Score`: The rating of the product (1-5 stars).
@@ -32,6 +35,6 @@ The dataset used in this project is the `Reviews.csv` file, which contains produ
 Clone this repository to your local machine and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/amazon-sentiment-analysis.git
-cd amazon-sentiment-analysis
+git clone https://github.com/LeylaY1996/sentiment-analysis-aws-reviews.git
+cd sentiment-analysis-aws-reviews
 pip install -r requirements.txt
